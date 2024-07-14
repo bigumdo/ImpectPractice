@@ -51,12 +51,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Offset: 0.72
+    - _Offset: 0.7
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Sell: 60
-    - _TIme: 1
-    - _Voronoi: 20
+    - _Sell: 42.21
+    - _TIme: 2.7
+    - _Voronoi: 10.79
     m_Colors:
     - _Color: {r: 0, g: 21.361254, b: 12.332429, a: 0}
   m_BuildTextureStacks: []
