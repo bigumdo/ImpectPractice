@@ -1691,7 +1691,7 @@
     "m_ShaderOutputName": "Tiling",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": 93.3499984741211,
+        "x": 1.0,
         "y": 0.0
     },
     "m_DefaultValue": {
@@ -3347,7 +3347,7 @@
         "coordinates"
     ],
     "m_Precision": 0,
-    "m_PreviewExpanded": false,
+    "m_PreviewExpanded": true,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
