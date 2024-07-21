@@ -1,18 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-2206549960997395407
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 7
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -20,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SlashMat
-  m_Shader: {fileID: -6465566751694194690, guid: 6c080ebc2d5b662498074c3f390697fe,
+  m_Name: Shader Graphs_SlashShader_BlendMat
+  m_Shader: {fileID: -6465566751694194690, guid: 15db115990970ee448e2dd7307d82c14,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -38,7 +25,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _SampleTexture2D_d3460369699748afaf534ad291ef3259_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: dac58bc9f37c24145a965afb5b4dee97, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0da3a2b679794314d9ded2d0e3ebefa2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -56,10 +43,23 @@ Material:
     m_Ints: []
     m_Floats:
     - _Disslove: 1
-    - _NoiseScale: 9.64
+    - _NoiseScale: 10
     - _Offset: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _SlashColor: {r: 1.5336026, g: 1.2605006, b: 0.3051146, a: 0}
+    - _SlashColor: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
+--- !u!114 &14468436066380183
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
