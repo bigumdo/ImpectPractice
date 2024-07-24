@@ -63,7 +63,7 @@ Material:
     - _Blend: 0
     - _CastShadows: 1
     - _Cull: 2
-    - _Cutoff: 0
+    - _Cutoff: 0.051
     - _Cutoff_Smoothstep: 0
     - _DissolveIntensity: 3
     - _DissolveSize: 0.05
