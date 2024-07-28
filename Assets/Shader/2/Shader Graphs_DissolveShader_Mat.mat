@@ -65,8 +65,8 @@ Material:
     - _Cull: 2
     - _Cutoff: 0
     - _Cutoff_Smoothstep: 0
-    - _DissolveIntensity: 0
-    - _DissolveSize: 0
+    - _DissolveIntensity: 10
+    - _DissolveSize: 0.05
     - _DstBlend: 10
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -76,5 +76,5 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _DissolveColor: {r: 1, g: 1, b: 1, a: 0}
+    - _DissolveColor: {r: 0, g: 20.835983, b: 32, a: 0}
   m_BuildTextureStacks: []
