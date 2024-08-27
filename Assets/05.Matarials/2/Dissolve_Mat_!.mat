@@ -63,7 +63,7 @@ Material:
     - _Blend: 0
     - _CastShadows: 1
     - _Cull: 2
-    - _Cutoff: 0
+    - _Cutoff: 0.03
     - _Cutoff_Smoothstep: 0
     - _DissolveIntensity: 3
     - _DissolveSize: 0.05
@@ -78,5 +78,5 @@ Material:
     - _ZWriteControl: 0
     m_Colors:
     - _Color: {r: 1.8428059, g: 0, b: 4, a: 0}
-    - _DissolveColor: {r: 22.319992, g: 0, b: 32, a: 0}
+    - _DissolveColor: {r: 89.27997, g: 0, b: 128, a: 0}
   m_BuildTextureStacks: []

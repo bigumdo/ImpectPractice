@@ -52,23 +52,27 @@ Material:
     - _AlphaClip: 0
     - _AlphaToMask: 0
     - _Blend: 0
-    - _BornSize: -0.06
+    - _BornSize: 0.5
     - _CastShadows: 1
+    - _CircleMask: 1
     - _Cull: 2
     - _Cutoff: 0
-    - _Cutoff_Softness: 0
+    - _Cutoff_Softness: 0.2
     - _Distortion_Amount: 0.1
     - _DstBlend: 10
-    - _Power: 0.87
+    - _InnerRadius: 0
+    - _OuterRadius: 1
+    - _Power: 1
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _Smoothness: 1
     - _SrcBlend: 5
     - _Surface: 1
     - _ZTest: 4
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _BurnColor: {r: 42.722507, g: 0, b: 0, a: 1}
+    - _BurnColor: {r: 114.0758, g: 0, b: 0, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 0}
     - _Distortion_Panning: {r: 0, g: 0, b: 0, a: 0}
     - _Distortion_Tiling: {r: 1, g: 1, b: 0, a: 0}
