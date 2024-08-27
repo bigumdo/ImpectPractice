@@ -2032,7 +2032,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 0.4099999964237213,
+    "m_Value": 0.05000000074505806,
     "m_FloatType": 1,
     "m_RangeValues": {
         "x": 0.0,
@@ -2342,10 +2342,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -536.0000610351563,
-            "y": 641.0000610351563,
-            "width": 109.00003051757813,
-            "height": 34.0
+            "x": -545.6000366210938,
+            "y": 540.0,
+            "width": 108.80001831054688,
+            "height": 33.5999755859375
         }
     },
     "m_Slots": [
@@ -2596,10 +2596,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -420.8000183105469,
-            "y": -238.3999481201172,
-            "width": 130.40008544921876,
-            "height": 117.60002899169922
+            "x": -422.4000244140625,
+            "y": -239.20001220703126,
+            "width": 208.0,
+            "height": 301.6000061035156
         }
     },
     "m_Slots": [
@@ -2687,10 +2687,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1276.0,
-            "y": -395.9999694824219,
-            "width": 108.0,
-            "height": 33.60003662109375
+            "x": -1276.800048828125,
+            "y": -401.6000061035156,
+            "width": 108.800048828125,
+            "height": 33.5999755859375
         }
     },
     "m_Slots": [
@@ -3146,7 +3146,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 0.8500000238418579,
+    "m_Value": 0.0,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -4082,7 +4082,7 @@
         "take away"
     ],
     "m_Precision": 0,
-    "m_PreviewExpanded": true,
+    "m_PreviewExpanded": false,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
@@ -4901,9 +4901,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -72.00009155273438,
-            "y": 606.3999633789063,
-            "width": 125.60006713867188,
+            "x": -64.00003814697266,
+            "y": 606.4000244140625,
+            "width": 125.59996032714844,
             "height": 117.5999755859375
         }
     },
