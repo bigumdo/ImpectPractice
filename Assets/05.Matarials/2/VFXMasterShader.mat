@@ -28,15 +28,19 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Distortion_Guide:
-        m_Texture: {fileID: 2800000, guid: 3db2942b4e4076b48bc19093b5fd539d, type: 3}
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 7282ecda836f57e4e9dbacbee39e8d44, type: 3}
+        m_Texture: {fileID: 2800000, guid: 037c182b33e6a884a913d630066962d5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_279fc4bb4fbf4397a79c6cd92c13acb4_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 037c182b33e6a884a913d630066962d5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SecondTex:
-        m_Texture: {fileID: 2800000, guid: 3db2942b4e4076b48bc19093b5fd539d, type: 3}
+        m_Texture: {fileID: 2800000, guid: 75d25c838566f704da8eb9cddd956838, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -56,13 +60,14 @@ Material:
     - _AlphaClip: 0
     - _AlphaToMask: 0
     - _Blend: 0
-    - _BornSize: 0.3
+    - _BornSize: 1
     - _CastShadows: 1
-    - _CircleMask: 1
-    - _Constrast: 0.9
+    - _CircleMask: 0
+    - _Constrast: 1
     - _Cull: 2
     - _Cutoff: 0
-    - _Cutoff_Softness: 0.48
+    - _Cutoff_Softness: 0.43
+    - _Distortion: 1
     - _Distortion_Amount: 0
     - _DstBlend: 10
     - _InnerRadius: 0
@@ -73,6 +78,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _RadialScale: 1
+    - _Rotation: 0
     - _Smoothness: 0.2
     - _SrcBlend: 5
     - _Surface: 1
@@ -81,11 +87,11 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _BurnColor: {r: 114.0758, g: 0, b: 0, a: 1}
-    - _Color: {r: 1, g: 1, b: 1, a: 0}
+    - _BurnColor: {r: 0, g: 6.2827225, b: 8, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Distortion_Panning: {r: 0, g: 0, b: 0, a: 0}
     - _Distortion_Tiling: {r: 1, g: 1, b: 0, a: 0}
-    - _MainTex_Offset: {r: 1, g: 1, b: 0, a: 0}
+    - _MainTex_Offset: {r: 0, g: 0, b: 0, a: 0}
     - _MainTex_Panning: {r: 0, g: 0, b: 0, a: 0}
     - _MainTex_Tiling: {r: 1, g: 1, b: 0, a: 0}
     - _SecondTex_Offset: {r: 1, g: 1, b: 0, a: 0}
