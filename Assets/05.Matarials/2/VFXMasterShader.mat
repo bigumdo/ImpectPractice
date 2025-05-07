@@ -65,20 +65,20 @@ Material:
     - _CircleMask: 0
     - _Constrast: 1
     - _Cull: 2
-    - _Cutoff: 0
-    - _Cutoff_Softness: 0.43
+    - _Cutoff: 0.66
+    - _Cutoff_Softness: 0.5
     - _Distortion: 1
     - _Distortion_Amount: 0
     - _DstBlend: 10
     - _InnerRadius: 0
-    - _LeenghScale: 1
+    - _LeenghScale: 0.18
     - _OuterRadius: 1
     - _Polar: 0
     - _Power: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RadialScale: 1
-    - _Rotation: 0
+    - _RadialScale: 0.73
+    - _Rotation: 1
     - _Smoothness: 0.2
     - _SrcBlend: 5
     - _Surface: 1
